@@ -1,0 +1,16 @@
+.contenedor-pregunta-respuesta {
+  width: 61%;
+  margin: 15px auto;
+}
+
+.contenedor-pregunta {
+    margin: 5px auto;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.contenedor-respuesta {
+    margin: 3px auto;
+    font-size: 22px;
+    font-weight: 400;
+}
