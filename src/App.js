@@ -13,7 +13,7 @@ function App() {
       <h1>Acerca de freeCodeCamp - Preguntas frecuentes</h1>
       <img
         className="imagen-equipo"
-        src={require("../../fccclonado/src/img/freecodecamp-1-.jpeg")}
+        src={require("../src/img/freecodecamp-1-.jpeg")}
         alt="Equipo de FCC"
       />
       <Pregyrta
